@@ -5,6 +5,12 @@ Hello All,
 I have Developed MERN Stack Expense Tracker Application with RTK Query in which user can manage their expense and will get the graphs and all on their expense by the interactive UI- 
 In this project we have used MongoDB, Express, React and Node which work together and make a stunning application.
 
+## Installation
+1. Clont the Project
+2. In the client and server install node modules : npm install
+3. start the server in devlopment mode: npm run start
+4. start the frontend in development mode : npm start
+
 ## Dependencies
 1.  "@reduxjs/toolkit": "^1.8.0",
 2.  "@testing-library/jest-dom": "^5.16.2",
@@ -27,12 +33,6 @@ In this project we have used MongoDB, Express, React and Node which work togethe
 19.  MongoDB Atlas
 20.  Lodash
 21.  Express Framework
-
-## Installation
-1. Clont the Project
-2. In the client and server install node modules : npm install
-3. start the server in devlopment mode: npm run start
-4. start the frontend in development mode : npm start
 
 ## Available scripts
 Runs the app in the development mode.\
