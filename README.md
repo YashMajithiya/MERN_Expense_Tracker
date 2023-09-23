@@ -2,7 +2,8 @@
 
 ## Overview
 Hello All,
-I have Develped MERN Stack Expense Tracker Application with RTK Query - 
+I have Develped MERN Stack Expense Tracker Application with RTK Query -
+I have Developed MERN Stack Expense Tracker Application with RTK Query in which user can manage their expense and will get the graphs and all on their expense by the interactive UI 
 In this project we have used MongoDB, Express, React and Node which work together and make a stunning application.
 
 ## Dependencies
